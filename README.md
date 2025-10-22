@@ -1,13 +1,15 @@
+
 <h1 align="center">Hi 👋, I'm Daanish Shaikh</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [Verve (social media)](https://github.com/DaanishShk/Social-Media-frontend)
+<h4>This profile is an archive for the academic projects I developed during my undergrad. </h4>
 
-- 🌱 I’m currently learning **apache spark**
 
-- 🤝 I’m looking for help with **Verve**
+- 🔭 I’m currently working as a **software developer**
+
+- 📫 Reach out to me on **linkedin**
 
 - 💬 Ask me about **react, spring boot**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
