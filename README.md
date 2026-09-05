@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Daanish Shaikh</h1>
 
-<h4>This profile is an archive for the academic projects I developed during my undergrad. </h4>
+<h4>Software developer with 3 years of experience building full-stack systems in Java, Spring Boot, and React. A few personal projects below.</h4>
 
 
 - 🔭 I’m currently working as a **software developer**
